@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/danielstiner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danielstiner.com
+  * I am danielstiner (https://keybase.io/danielstiner) on keybase.
+  * I have a public key ASBeiXksix8HS_MKzSjMEXCzkp6pguGFioVrNfrcTC6yGwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205e89792c8b1f074bf30acd28cc1170b3929ea982e1858a856b35fadc4c2eb21b0a",
+            "host": "keybase.io",
+            "kid": "01205e89792c8b1f074bf30acd28cc1170b3929ea982e1858a856b35fadc4c2eb21b0a",
+            "uid": "9bbb51433219e2b7a5fe98fec1bd7400",
+            "username": "danielstiner"
+        },
+        "service": {
+            "hostname": "danielstiner.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1485482439,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1485482416,
+        "hash": "7e2f52d226ccf45c056c82189f06313174459c37d08445d2bf34539c5887b1aefe344e28745e34fa4ec8a402936c274e5b5b618c438b6ff5e715b565527ca701",
+        "seqno": 819550
+    },
+    "prev": "150a50a6eea6abfc7a9ee2315419e7740abe77eec88d6127a4cad44f3e267b3c",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXol5LIsfB0vzCs0ozBFws5KeqYLhhYqFazX63EwushsKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWU4OTc5MmM4YjFmMDc0YmYzMGFjZDI4Y2MxMTcwYjM5MjllYTk4MmUxODU4YTg1NmIzNWZhZGM0YzJlYjIxYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWU4OTc5MmM4YjFmMDc0YmYzMGFjZDI4Y2MxMTcwYjM5MjllYTk4MmUxODU4YTg1NmIzNWZhZGM0YzJlYjIxYjBhIiwidWlkIjoiOWJiYjUxNDMzMjE5ZTJiN2E1ZmU5OGZlYzFiZDc0MDAiLCJ1c2VybmFtZSI6ImRhbmllbHN0aW5lciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZGFuaWVsc3RpbmVyLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg1NDgyNDM5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODU0ODI0MTYsImhhc2giOiI3ZTJmNTJkMjI2Y2NmNDVjMDU2YzgyMTg5ZjA2MzEzMTc0NDU5YzM3ZDA4NDQ1ZDJiZjM0NTM5YzU4ODdiMWFlZmUzNDRlMjg3NDVlMzRmYTRlYzhhNDAyOTM2YzI3NGU1YjViNjE4YzQzOGI2ZmY1ZTcxNWI1NjU1MjdjYTcwMSIsInNlcW5vIjo4MTk1NTB9LCJwcmV2IjoiMTUwYTUwYTZlZWE2YWJmYzdhOWVlMjMxNTQxOWU3NzQwYWJlNzdlZWM4OGQ2MTI3YTRjYWQ0NGYzZTI2N2IzYyIsInNlcW5vIjoxNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECSTxY+cpL4cyHVwpCQ6OJUjhfRmWdJePi4ir1uk5KksL7tyfASQvVCIDWFALH4LC4mItd8CpQ32ibJSgjmFYAOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg6w6UFSwgW5WDIXuAmDrH6w36NPcneOZ0yaICebzZXq2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielstiner
+
+==================================================================
+
