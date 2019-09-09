@@ -53,3 +53,78 @@ View my publicly-auditable identity here: https://keybase.io/danielstiner
 
 ==================================================================
 
+==================================================================
+https://keybase.io/danielstiner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danielstiner.me
+  * I am danielstiner (https://keybase.io/danielstiner) on keybase.
+  * I have a public key with fingerprint C1DB ACA9 C987 06BE 7133  8B19 A369 DFCC 6CE0 6220
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e89792c8b1f074bf30acd28cc1170b3929ea982e1858a856b35fadc4c2eb21b0a",
+      "fingerprint": "c1dbaca9c98706be71338b19a369dfcc6ce06220",
+      "host": "keybase.io",
+      "key_id": "a369dfcc6ce06220",
+      "kid": "01015cf203df562ae7ddb22effd662fadbaa8c047be8525bc0f5dbc9d401b9e3f2bc0a",
+      "uid": "9bbb51433219e2b7a5fe98fec1bd7400",
+      "username": "danielstiner"
+    },
+    "service": {
+      "hostname": "danielstiner.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568002081,
+  "expire_in": 157680000,
+  "prev": "1a1d7fc9181e829633daafd24275efcfc33c488431cfff0831c14992fbeaf8b0",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmlMFVcYfQi2FILFPVI251HDDzT33nmzPRoaY4sChjYuiVTsY+6dOzgC78HM
+Y1VqlSbIJhiXBsG2SDdMQ0lqFCOiNhgFWWw1qUootgSBqo8EqtCKbWdM/eevL/d8
+55zvfF9uXYi/LdCvWRvuzb6Ho/2uT2DbjvwbMbsZ7FGKGeduJos+LzRboYbXlaUp
+jJMBEAGOipIgISJiqALBgVUWyERBIiEQCgCzEpKoLImIQpETZZHjMcupskIcBFGM
+IAYyE8eomjuT6rm65vaatgQqWCayRCRRADymAmRZ016SWV5SVEJ4QgGPEDCFOz2G
+pTDDYdmgazSPiZkP1/N4L+G/yA0gR1QEWEXleCRTQVEwQlRVFZ5HZjosyyIBDgFT
+kUMcJkDlFEwkxQEgliirIhOycuc/t5Mwxhx0sCyCEkVYkDmVSqJKCcSK4ADW3HyD
+6m45h5psRXZrNNvwam6qM6VxjNkp0Ai1jmtt8xLWGhOJY3J1j9dDPNlmc6fXm2s4
+LbG3ONdiF1Ls+t/HhTW3Yp7TVBRQ3dA8bsYJTSbxapYx5HgRAAREGMfQolxNpy7N
+YnCChQNgzaEFpmUGlKEiqESCIqQikniWVWRZVZADCRxViUpYljhE0cFCoqoqEM0K
+HZKEVExlVcTW1gbNc3sYJ3KYQeVM09TQMt2yN1+nTGlQxTw2wOYXaItYtjLg8uB3
+Ld3lr3TmsVUrXvzB+fOsD2gLei30BUIaQ209B0Gyr9F/0YWq6ruxd3YFzZz+p2vb
+PPB1xqAv84GvMCcjvM42Ye8uy7u/fO/VpdGusHPXTvQNbaXhAfv9ps4nlH3y+vnV
+rqy2rlP9Fw+PtPE7WhfkRdV+03jsWGJE7clLxqf5E9rGxWJnG7xd8eu708mLNu8r
+bP15POPkkQ1D9b4Pp8tniz7Ti3xjz2pGHuMfg48MRY1rNSmRcLS4LOChVFT3S1JP
+bWznTOJcV9YpoTzvzPZb8SlTf9fnb1p1p6rpTNDl9WFH9yy05yxc2v97TVl/11xz
+kx6SmtlMbQcivhp3R3eHHBgd2aQ2XZlMX5Xzb8rDi3rSxLf2lcuiblX2Xcx+z15R
+M2psHRUSrrStvXl2avmCsNuth5yZwcMnGkZbhsnAoTd627al+W8n7NWAPVLkx8Nb
+HqeFw2ruy8b4hp57w/NnIn/74qxv+vOaatuuDe1PQn4I67vRnhH/Vlz/T0en5OqG
++nPR7yetqvStnZ36CxuRec9a20f4pNOvXkgNmDx+bWh1SdTb9pYFZfawuR7v9Baj
+oDY+ZvO6vZXrnoxcR6GPguIH/ow6N8i9GXh3bNP6geSkXns56EjW9z1N40tXRJ5c
+/fRwhlG559E7esnG8OuxwR3pFR+E3u+6RCYmlW0RTfrBkpiIhPSPXPsnx7KM2fDu
+JTcf9HwvLk26sv94MUjtW7wk8Q9nx38=
+=1y0w
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielstiner
+
+==================================================================
+
+
