@@ -53,6 +53,7 @@ View my publicly-auditable identity here: https://keybase.io/danielstiner
 
 ==================================================================
 
+
 ==================================================================
 https://keybase.io/danielstiner
 --------------------------------------------------------------------
@@ -118,6 +119,81 @@ oDY+ZvO6vZXrnoxcR6GPguIH/ow6N8i9GXh3bNP6geSkXns56EjW9z1N40tXRJ5c
 /fRwhlG559E7esnG8OuxwR3pFR+E3u+6RCYmlW0RTfrBkpiIhPSPXPsnx7KM2fDu
 JTcf9HwvLk26sv94MUjtW7wk8Q9nx38=
 =1y0w
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielstiner
+
+==================================================================
+
+
+==================================================================
+https://keybase.io/danielstiner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danstiner.me
+  * I am danielstiner (https://keybase.io/danielstiner) on keybase.
+  * I have a public key with fingerprint C1DB ACA9 C987 06BE 7133  8B19 A369 DFCC 6CE0 6220
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e89792c8b1f074bf30acd28cc1170b3929ea982e1858a856b35fadc4c2eb21b0a",
+      "fingerprint": "c1dbaca9c98706be71338b19a369dfcc6ce06220",
+      "host": "keybase.io",
+      "key_id": "a369dfcc6ce06220",
+      "kid": "01015cf203df562ae7ddb22effd662fadbaa8c047be8525bc0f5dbc9d401b9e3f2bc0a",
+      "uid": "9bbb51433219e2b7a5fe98fec1bd7400",
+      "username": "danielstiner"
+    },
+    "service": {
+      "hostname": "danstiner.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568002251,
+  "expire_in": 157680000,
+  "prev": "e15a8f79c4327b7081442bcc5ad1a05fe6b8bdebf7d3ec8a70e0a7a3e1025d46",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmtQVGUYXu4IOjI4ycVAOUQ5teC57Nlzzg4EgqPGcpGmCzQty/ed8x32COzC
+7rIsIlFB6hKtGtkFioAMh8t0YcLIHwQKTWAk2hQSYwICjkHAlFNYOnYOxfSnX9+8
+z/u8z/s873wnNnmp/D0+kK5/UzgFd3hcvAVVhtKxSxUYtAjlmK4CK0BrDyoUkM1u
+LJAETIfhBInTiOUYjuRZSIg4o4EihQNeIFmeJwgGhxRHcghwLIkIlmYBS2shRYtA
+4DU8iSBJQBxgakyUzPnIWmyVzHZZlicECHjA8RzL4FqIGIKiZHkOUFpOEHleyyNc
+S5K4PGiy2JQJ2RwENhQnWWRMLoxr9v6Hv+4bJ2heJHFKEGktCRAjCJAkkSgKWi0p
+u4MAsDyuYSBiaZKGPC7SAuQ5QYMTkEOUSMqQ4rt0TY6DENKEhqJIgkMkZAAtIo4V
+EU9AgdHgyt5SG7KaQRGS2QIwS6jQZpfMyIpVqjG545B4pBxXSfMf6x9KnFyqsWKr
+xW7hLYVyx2S3F9t0yqS9vFihliFo/FfECCWzIN9SnnAgq02ymDEdITN5u6SoErSW
+xXGSpAk1hpzFkhUZJYVBMwqO48oe5JAlEUEbACsyHK+hSAYyOEtoNHJongYCAXA5
+nxayUEBQZAQK8SxgcIQDBlCIwEla0GgxJVeJ2YLpSFo2CvJlUZuUbwb2UivCKgNc
+npS3ysNfFbE1yntgsqt9+KhvXwn1atj6B/TxVH6fKmBD0Dqyb27zfb4n/vWx3Xqf
+xL7F8iD/gZmlxICtb4X5eqzeW6h11fk3RneFzExXHxx3PtBmKHrsydrqH9TdMZk7
+vs6cHG4yp4RVnc/aOek4fVZ/xnXEean+VkX2wU7jvOt3Jzi1fOPGuFPzzM1towMZ
+USAuL9twzfP9KxNSbMy+21ef0F3I/Xn2+YXbb3bpXl4uqTrWevm1N+bh/dDa5NoN
+6iV1SvD+M1npy79ix4OHDPeaxObtM4d6F/ICN/6m7wzN8I6fU3kxsUXgz8XYehPr
+szT7WdPCar9pJMRrcHrvBU1umz7pEKhMPSAc3ttFvBvcmwjGk5a79Uem+ptTKClr
+ujP8JcueoaqzGwuYdMf2lQD1Izk6elaVegA2wvFsa1JiUK+vKffiyV2n/DLODbpW
+rrp21T34tJ97IvC9nsrA9DK/7sy0tNEQU9XKJwkZe9rynSVfXrOWfbtpOGG3O+HE
+zm0u9qHwsJFk0uge+/Gp0JzAL2I6c7i7ttG0PHvgFub0K5PXc5YKHcc7trxQ3ef1
+jq3BMlLTgyKI5MLwYymPNix+2nj4l5o/6tBoYmzkzYyoO1fa5wZrOxqe+670fH1W
+y/xPz94V7zS0rvQXtBZ9tL8952OpMfpD6rI78vHIibf1L3qmDLUc7QhANYblZvfK
+X6slbdXxeeFjHtjJ1NyR6IqEqc+/GmiJeHjz9+fcM86/AQ==
+=czs6
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
